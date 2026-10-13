@@ -1,0 +1,56 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\86185\\.ohos\\config\\default_MujieClock_g2ikiWziFH12GBqJsGsuMCN1MyYiYcl7JEkoF9zBtaI=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B168F09C703A84CA290FFE9F6844885BB4CD43D0F6D4D3CD9BB9D0862F40A448E5629D672727830",
+          "profile": "C:\\Users\\86185\\.ohos\\config\\default_MujieClock_g2ikiWziFH12GBqJsGsuMCN1MyYiYcl7JEkoF9zBtaI=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\86185\\.ohos\\config\\default_MujieClock_g2ikiWziFH12GBqJsGsuMCN1MyYiYcl7JEkoF9zBtaI=.p12",
+          "storePassword": "0000001BB5E66561CE4EC652EC0499F49191A566D77F7B9EF8A9026E1FEF10DF5BBF58AC6B7051DB092546"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "6.0.2(22)",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

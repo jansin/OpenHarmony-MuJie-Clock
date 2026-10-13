@@ -1,0 +1,248 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "沐界时钟主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "闹钟、世界时钟、计时器与秒表"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "沐界时钟"
+    },
+    {
+      "name": "tab_alarm",
+      "value": "闹钟"
+    },
+    {
+      "name": "tab_world_clock",
+      "value": "世界时钟"
+    },
+    {
+      "name": "tab_stopwatch",
+      "value": "秒表"
+    },
+    {
+      "name": "tab_timer",
+      "value": "计时器"
+    },
+    {
+      "name": "no_alarms",
+      "value": "暂无闹钟"
+    },
+    {
+      "name": "add_alarm_hint",
+      "value": "点击下方 + 新建闹钟"
+    },
+    {
+      "name": "swipe_delete_hint",
+      "value": "左滑删除闹钟"
+    },
+    {
+      "name": "alarm_delete",
+      "value": "删除"
+    },
+    {
+      "name": "new_alarm",
+      "value": "新建闹钟"
+    },
+    {
+      "name": "alarm_off",
+      "value": "已关闭，不会响铃"
+    },
+    {
+      "name": "no_upcoming_ring",
+      "value": "近期无符合重复的响铃"
+    },
+    {
+      "name": "next_ring_prefix",
+      "value": "下次："
+    },
+    {
+      "name": "about_to_ring",
+      "value": "即将响铃"
+    },
+    {
+      "name": "minutes_later",
+      "value": "%d 分钟后"
+    },
+    {
+      "name": "hours_later",
+      "value": "约 %d 小时后"
+    },
+    {
+      "name": "hours_minutes_later",
+      "value": "约 %d 小时 %d 分钟后"
+    },
+    {
+      "name": "no_active_alarm",
+      "value": "暂无启用闹钟"
+    },
+    {
+      "name": "default_alarm_label",
+      "value": "闹钟"
+    },
+    {
+      "name": "ring_hours_minutes_later",
+      "value": "%d 小时 %d 分钟 后响铃"
+    },
+    {
+      "name": "ring_minutes_later",
+      "value": "%d 分钟 后响铃"
+    },
+    {
+      "name": "tap_card_edit",
+      "value": "点按卡片编辑；左滑可出现删除"
+    },
+    {
+      "name": "time_hour",
+      "value": "时"
+    },
+    {
+      "name": "time_minute",
+      "value": "分"
+    },
+    {
+      "name": "time_second",
+      "value": "秒"
+    },
+    {
+      "name": "timer_finished_title",
+      "value": "计时结束"
+    },
+    {
+      "name": "timer_finished_msg",
+      "value": "倒计时已归零。"
+    },
+    {
+      "name": "timer_confirm",
+      "value": "确定"
+    },
+    {
+      "name": "timer_running",
+      "value": "计时中"
+    },
+    {
+      "name": "timer_set_hint",
+      "value": "请设置时长或点选上方快捷时间"
+    },
+    {
+      "name": "timer_cannot_start_title",
+      "value": "无法开始"
+    },
+    {
+      "name": "timer_cannot_start_msg",
+      "value": "请先将倒计时设为大于 0 的时长，或点选快捷时间。"
+    },
+    {
+      "name": "timer_got_it",
+      "value": "知道了"
+    },
+    {
+      "name": "timer_switch_preset",
+      "value": "切换快捷时长"
+    },
+    {
+      "name": "preset_1m",
+      "value": "1分"
+    },
+    {
+      "name": "preset_3m",
+      "value": "3分"
+    },
+    {
+      "name": "preset_5m",
+      "value": "5分"
+    },
+    {
+      "name": "preset_10m",
+      "value": "10分"
+    },
+    {
+      "name": "preset_15m",
+      "value": "15分"
+    },
+    {
+      "name": "preset_30m",
+      "value": "30分"
+    },
+    {
+      "name": "stopwatch_running",
+      "value": "计时中"
+    },
+    {
+      "name": "stopwatch_paused",
+      "value": "已暂停"
+    },
+    {
+      "name": "stopwatch_idle",
+      "value": "点按 ▶ 开始"
+    },
+    {
+      "name": "clear_laps",
+      "value": "清除计次"
+    },
+    {
+      "name": "copy_laps",
+      "value": "复制计次"
+    },
+    {
+      "name": "laps_copied",
+      "value": "已复制计次到剪贴板"
+    },
+    {
+      "name": "main_timer",
+      "value": "主计时"
+    },
+    {
+      "name": "lap_no_header",
+      "value": "计次"
+    },
+    {
+      "name": "split_time_header",
+      "value": "单圈"
+    },
+    {
+      "name": "total_time_header",
+      "value": "累计"
+    },
+    {
+      "name": "stopwatch_pause",
+      "value": "暂停"
+    },
+    {
+      "name": "stopwatch_start",
+      "value": "开始"
+    },
+    {
+      "name": "city_already_exists",
+      "value": "该城市已在世界时钟中"
+    },
+    {
+      "name": "max_4_cities_removed",
+      "value": "最多保留 4 个城市，已移除最早添加的城市"
+    },
+    {
+      "name": "ringtone_classic",
+      "value": "经典"
+    },
+    {
+      "name": "ringtone_soft",
+      "value": "轻快"
+    },
+    {
+      "name": "ringtone_digital",
+      "value": "电子"
+    },
+    {
+      "name": "ringtone_default",
+      "value": "默认"
+    },
+    {
+      "name": "switch_to_tab",
+      "value": "切换到%s"
+    }
+  ]
+}
